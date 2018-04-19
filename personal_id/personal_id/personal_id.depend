@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1524131595 source:c:\users\user\documents\greenfox\macrotis-embedded-orientation-mockexam\personal_id\personal_id\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
