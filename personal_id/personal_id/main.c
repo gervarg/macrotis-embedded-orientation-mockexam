@@ -71,7 +71,8 @@ int main()
     persons[4].type = HIGH_SCHOOL;
 
     printf("The oldest person alive is: %d old\n", get_oldest_alive(persons, 5));
-    printf("The number of persons with high_school degree is: %d\n", get_qualification_count(persons, 5, HIGH_SCHOOL));
+    printf("The number of persons with high_school degree is: %d\n",
+           get_qualification_count(persons, 5, HIGH_SCHOOL));
 
     return 0;
 }
